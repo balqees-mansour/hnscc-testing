@@ -334,7 +334,7 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 For questions, issues, or suggestions:
 - Open an issue on GitHub
-- Contact: [your.email@example.com]
+- Contact: balqeesmansour0@gmail.com
 
 ## Acknowledgments
 
@@ -343,7 +343,4 @@ For questions, issues, or suggestions:
 - scikit-learn and pandas communities for Python tools
 
 ---
-
-**Last Updated**: December 2025  
-**Version**: 1.0.0  
 **Status**: Production Ready
